@@ -1,4 +1,4 @@
-// Copyright 2024 Pozdnyakov Vasya
+// Copyright 2024 Kutarin Alexandr
 #pragma once
 #include "circle.h"
 double EarthAndRopeSolve(double earthRadius, double growth);
