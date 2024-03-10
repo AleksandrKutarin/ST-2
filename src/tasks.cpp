@@ -18,4 +18,5 @@ double SwimmingPoolSolve(double poolRadiusMeter, double areaWidthMeter,
     double areaPrice = (poolAndArea.getArea() - pool.getArea())
      * areaPricePerSquareMeter;
 
-    re
+    return ferencePrice + areaPrice;
+}
